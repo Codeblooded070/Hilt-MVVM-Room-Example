@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataMaticsTest</string>
+
+    <string name="online_mode">You are in  online mode</string>
+    <string name="offline_mode">You are in offline mode</string>
+    <string name="switch_online_mode">Before using app in offline mode you have to switch in online mode</string>
+
+</resources>
